@@ -15,8 +15,7 @@ repository = "https://github.com/rust-embedded/panic-semihosting"
 version = "0.5.1"
 
 [dependencies.cortex-m]
-git = "https://github.com/evq/cortex-m"
-branch = "thumbv8m.base"
+git = "https://github.com/rust-embedded/cortex-m"
 
 [dependencies.cortex-m-semihosting]
 git = "https://github.com/evq/cortex-m-semihosting"
