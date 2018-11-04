@@ -11,6 +11,7 @@ version = "0.5.1"
 
 [dependencies.cortex-m]
 git = "https://github.com/rust-embedded/cortex-m"
+rev = "b70a2179f4e8ee7908b61a6a97970e0cfcf2f313"
 
 [dependencies.cortex-m-semihosting]
 git = "https://github.com/rust-embedded/cortex-m-semihosting"
